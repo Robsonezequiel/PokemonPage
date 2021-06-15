@@ -1,0 +1,31 @@
+
+.pagina{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 940px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+} 
+
+
+button{
+    width: 400px;
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #3466af;
+    color: white;
+    transition: 1s;
+}
+
+button:hover{
+    font-size: 40px;
+}
+
+    
+
+
+  
+       

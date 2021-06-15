@@ -1,0 +1,20 @@
+.container{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    
+}
+
+h1{
+    color: #3466af;
+}
+
+.card {
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .imagem{
+    width: 300px;
+}

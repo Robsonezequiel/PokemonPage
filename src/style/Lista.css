@@ -1,0 +1,59 @@
+body{
+    background: #ffcb05;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.container{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.list{
+    list-style-image: url('./bola.png');
+    width: 940px;
+    margin: 0 auto;
+}
+
+li.list-item{
+    align-self: center;
+    text-align: center;
+    width: 450px;
+    margin: 0 auto;
+    text-decoration: none;
+    color: #3466af;
+    border: 4px solid #3466af;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all 400ms;
+   
+ }
+
+ li.list-item:hover{
+    background:#3466af;
+}
+
+
+a{
+    display: inline-block;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #3466af;
+}
+
+a:hover{
+    font-size:60px ;
+    color: white;
+}
+
+
+
+  
